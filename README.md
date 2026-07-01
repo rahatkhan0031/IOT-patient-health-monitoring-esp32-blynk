@@ -1,4 +1,4 @@
-# IoT Patient Health Monitoring System using ESP32 and Blynk
+<img width="2880" height="1440" alt="circuit-diagram" src="https://github.com/user-attachments/assets/7865b63a-52fb-4d58-8155-f929e7956385" /><img width="2880" height="1440" alt="circuit-diagram" src="https://github.com/user-attachments/assets/c8ae3ddc-8e53-44c5-a957-8141b3589955" /># IoT Patient Health Monitoring System using ESP32 and Blynk
 
 This project is an IoT-based patient health monitoring system using an ESP32 microcontroller and the Blynk IoT platform. The system measures heart rate, blood oxygen level, room temperature, room humidity, and body temperature using multiple sensors. The measured data is displayed on the Blynk mobile app and also printed on the Arduino Serial Monitor.
 
@@ -36,7 +36,7 @@ This project is useful for learning embedded systems, IoT communication, sensor 
 
 The circuit connection for the IoT patient health monitoring system is shown below:
 
-![Circuit Diagram](circuit-diagram.png)
+![Circuit Diagram](![Uploading circuit-diagram.png…]
 
 ## Pin Connection
 
