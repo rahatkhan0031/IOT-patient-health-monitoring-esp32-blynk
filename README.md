@@ -36,7 +36,7 @@ This project is useful for learning embedded systems, IoT communication, sensor 
 
 The circuit connection for the IoT patient health monitoring system is shown below:
 
-![Circuit Diagram](![Uploading circuit-diagram.png…]
+![Circuit Diagram](circuit-diagram.png)
 
 ## Pin Connection
 
